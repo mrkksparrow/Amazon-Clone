@@ -69,3 +69,8 @@
   margin-right: 10px;
   color: white;
 }
+
+.header__option:hover {
+  outline-color: white;
+  outline: auto;
+}
