@@ -53,7 +53,7 @@
 }
 
 .header__optionBasket:hover {
-  outline: white;
+  outline-color: white;
 }
 
 .header__basketCount {
@@ -75,5 +75,5 @@
 }
 
 .header__option:hover {
-  outline-color: white;
+  outline: white;
 }
